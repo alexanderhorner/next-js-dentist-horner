@@ -1,0 +1,154 @@
+{
+  "germany": "Deutschland",
+
+  "page": {
+    "home": {
+
+      "head": {
+        "title": "",
+        "meta": {
+          "description": ""
+        }
+      },
+
+      "hero": {
+        "label": "We speak English",
+        "title": "Lächeln Sie selbstbewusst!",
+        "description": {
+          "strong": "Zahnarztpraxis Horner",
+          "after": " bietet Ihnen modernste Behandlungsmethoden und individuelle Betreuung für ein gesundes und strahlendes Lächeln, in Velburg."
+        }
+      },
+
+      "stars": {
+        "number": "4,8",
+        "text": "Sterne auf Google"
+      },
+
+      "review": {
+        "header": "Patientenbewertungen"
+      },
+
+      "aboutus": {
+        "header": "Über uns",
+        "paragraphs": [
+          "Seit 1997 bieten wir von der Zahnarztpraxis Horner unseren Patienten hochwertige zahnärztliche Behandlungen auf höchstem Niveau. Unsere Praxis besteht aus einem erfahrenen Team von 5 Arzthelferinnen und dem Zahnarzt Horner, der sich leidenschaftlich für Ihre Zahngesundheit einsetzt.",
+          "Unsere Praxisphilosophie beruht auf einer ganzheitlichen Betrachtung Ihrer Zahngesundheit. Wir legen großen Wert auf eine individuelle Beratung und Behandlung und nehmen uns Zeit, um Ihre Fragen und Bedenken zu beantworten. Unser Ziel ist es, dass Sie sich bei uns wohl und gut aufgehoben fühlen.",
+          "Wir bieten Ihnen eine breite Palette von zahnärztlichen Leistungen, von der Prophylaxe über Implantate bis hin zur ästhetischen Zahnheilkunde. Dabei verwenden wir stets modernste Technologien und Materialien, um Ihnen eine schnelle und effektive Behandlung zu ermöglichen.",
+          "Besuchen Sie uns gerne in unserer Praxis und lassen Sie uns gemeinsam an Ihrem strahlenden Lächeln arbeiten. Wir freuen uns darauf, Sie kennenzulernen!"
+        ]
+      },
+
+      "openinghours": {
+        "header": "Öffnungszeiten",
+        "days": [
+          {
+            "name": "Montag:",
+            "hours": [
+              "08:00 - 12:00 Uhr",
+              "13:00 - 16:00 Uhr"
+            ]
+          },
+          {
+            "name": "Dienstag:",
+            "hours": [
+              "08:00 - 12:00 Uhr",
+              "14:00 - 19:30 Uhr"
+            ]
+          },
+          {
+            "name": "Mittwoch:",
+            "hours": [
+              "08:00 - 12:00 Uhr"
+            ]
+          },
+          {
+            "name": "Donnerstag:",
+            "hours": [
+              "08:00 - 12:00 Uhr",
+              "14:00 - 18:00 Uhr"
+            ]
+          },
+          {
+            "name": "Freitag:",
+            "hours": [
+              "08:00 - 12:00 Uhr"
+            ]
+          },
+          {
+            "name": "Samstag:",
+            "hours": [
+              "Geschlossen"
+            ]
+          },
+          {
+            "name": "Sonntag:",
+            "hours": [
+              "Geschlossen"
+            ]
+          }
+        ],
+        "suggestion": "Schlechte Zeiten? Gerne nehmen wir Vorschläge zu besseren Zeiten entgegen."
+      },
+
+      "lastActionCall": {
+        "header": "Jetzt Termin vereinbaren!"
+      },
+
+      "footer": {
+        "address": "Adresse",
+        "telephone": "Telefon",
+        "lang": "Sprache"
+      }
+    },
+
+    "reviewList": {
+      "more": "Mehr Bewertungen anzeigen"
+    }
+  },
+
+  "reviews": [
+    {
+      "textShort": "Tolles Personal, sehr freundlich. Zum Zahnarzt geht niemand gerne... aber bei der Praxis Horner fühlt man sich ernst genommen. Klare Weiterempfehlung!",
+      "text": "Tolles Personal, sehr freundlich. Zum Zahnarzt geht niemand gerne... aber bei der Praxis Horner fühlt man sich ernst genommen. Klare Weiterempfehlung!",
+      "author": "Ludwig Lichtenberg",
+      "source": "Google"
+    },
+    {
+      "textShort": "Freundicher und kompetenter Zahnarzt, der sich super um seine Patienten kümmert. [...]",
+      "text": "Freundicher und kompetenter Zahnarzt, der sich super um seine Patienten kümmert. Erklärt alles sehr verständlich und gegebenfalls anschaulich.",
+      "author": "Anonym",
+      "source": "Jameda.de"
+    },
+    {
+      "textShort": "[...] Super nettes Team, schöne, ansprechende Räumlichkeiten. Die Zahnreinigung war sehr sanft und angenehm, aber vorallem auch effektiv! [...]",
+      "text": "War heute zur PZR in der Praxis. Super nettes Team, schöne, ansprechende Räumlichkeiten. Die Zahnreinigung war sehr sanft und angenehm, aber vorallem auch effektiv! Tolles Ergebnis - gerne in 6 Monaten wieder :)",
+      "author": "Anonym",
+      "source": "Jameda.de"
+    },
+
+    {
+      "textShort": "Immer gerne. Sehr nettes Personal, alle sehr freundlich.",
+      "text": "Immer gerne. Sehr nettes Personal, alle sehr freundlich.",
+      "author": "Klaus Witzmann",
+      "source": "Google"
+    },
+
+    {
+      "text": "Sehr kompetenter und guter Zahnarzt. nimmt dem Patienten die Angst, arbeitet schnell und gut und versucht nicht, einem Behandlungen aufzuschwatzen ... Ich bin sehr froh, ihn gefunden zu haben.",
+      "author": "Anonym",
+      "source": "Jameda.de"
+    },
+    {
+      "text": "Bei meiner Behandlung eine private Leistung zur Verbesserung der Ästethik hätte er 500€ verdienen können, stellte mir aber eine andere Behandlungsmethode vor die ihm nur 7 5 € brachte. Super Arzt.",
+      "author": "Anonym",
+      "source": "Jameda.de"
+    },
+
+    {
+      "text": "Super Zahnarzt.",
+      "author": "Nicole",
+      "source": "Google"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "germany": "Germany",
+
+  "page": {
+    "home": {
+
+      "head": {
+        "title": "Zahnarztpraxis Horner",
+        "meta": {
+          "description": "Herzlich Willkommen bei der Zahnarztpraxis Horner in Velburg! Wir bieten Ihnen moderne Zahnmedizin auf höchstem Niveau. Unser erfahrener Zahnarzt und das freundliche Team sorgen für eine entspannte und angenehme Atmosphäre. Vereinbaren Sie noch heute einen Termin für Ihre Zahngesundheit!"
+        }
+      },
+
+      "hero": {
+        "label": "TRICARE Dental Program",
+        "title": "Smile with Confidence!",
+        "description": {
+          "strong": "Horner Dental Practice",
+          "after": " offers you state-of-the-art treatment methods and individual care for a healthy and radiant smile, right in Velburg."
+        }
+      },
+
+      "stars": {
+        "number": "4.8",
+        "text": "Stars on Google"
+      },
+
+      "review": {
+        "header": "Patient Reviews"
+      },
+
+      "aboutus": {
+        "header": "About Us",
+        "paragraphs": [
+          "Since 1997, we at Horner Dental Practice have been providing our patients with high-quality dental treatments at the highest level. Our practice consists of an experienced team of 5 dental assistants and the dentist Horner, who is passionate about your dental health.",
+          "Our practice philosophy is based on a holistic view of your dental health. We place great emphasis on individual consultation and treatment and take the time to answer your questions and concerns. Our goal is for you to feel comfortable and well cared for with us.",
+          "We offer you a wide range of dental services, from prophylaxis to implants to aesthetic dentistry. We always use the latest technologies and materials to provide you with fast and effective treatment.",
+          "Feel free to visit us in our practice and let us work together on your radiant smile. We look forward to getting to know you!"
+        ]
+      },
+
+      "openinghours": {
+        "header": "Opening Hours",
+        "days": [
+          {
+            "name": "Monday:",
+            "hours": [
+              "08:00 AM - 12:00 PM",
+              "01:00 PM - 04:00 PM"
+            ]
+          },
+          {
+            "name": "Tuesday:",
+            "hours": [
+              "08:00 AM - 12:00 PM",
+              "02:00 PM - 07:30 PM"
+            ]
+          },
+          {
+            "name": "Wednesday:",
+            "hours": [
+              "08:00 AM - 12:00 PM"
+            ]
+          },
+          {
+            "name": "Thursday:",
+            "hours": [
+              "08:00 AM - 12:00 PM",
+              "02:00 PM - 06:00 PM"
+            ]
+          },
+          {
+            "name": "Friday:",
+            "hours": [
+              "08:00 AM - 12:00 PM"
+            ]
+          },
+          {
+            "name": "Saturday:",
+            "hours": [
+              "Closed"
+            ]
+          },
+          {
+            "name": "Sunday:",
+            "hours": [
+              "Closed"
+            ]
+          }
+        ],
+        "suggestion": "Bad times? We are happy to accept suggestions for better times."
+      },
+
+      "lastActionCall": {
+        "header": "Make an appointment now!"
+      },
+
+      "footer": {
+        "address": "Address",
+        "telephone": "Phone",
+        "lang": "Language"
+      }
+    },
+
+    "reviewList": {
+      "more": "Show more reviews"
+    }
+
+  },
+
+  "reviews": [
+    {
+      "textShort": "Great staff, very friendly. Nobody likes going to the dentist... but at Horner Practice, you feel taken seriously. Clear recommendation!",
+      "text": "Great staff, very friendly. Nobody likes going to the dentist... but at Horner Practice, you feel taken seriously. Clear recommendation!",
+      "author": "Ludwig Lichtenberg",
+      "source": "Google (Translated)"
+    },
+    {
+      "textShort": "Friendly and competent dentist who takes great care of his patients. [...]",
+      "text": "Friendly and competent dentist who takes great care of his patients. Explains everything very understandably and, if necessary, visually.",
+      "author": "Anonym",
+      "source": "Jameda.de (Translated)"
+    },
+    {
+      "textShort": "[...] Super nice team, beautiful, appealing premises. The teeth cleaning was very gentle and pleasant, but above all also effective! [...]",
+      "text": "Was at the practice today for PZR. Super nice team, beautiful, appealing premises. The teeth cleaning was very gentle and pleasant, but above all also effective! Great result - gladly again in 6 months :)",
+      "author": "Anonym",
+      "source": "Jameda.de (Translated)"
+    },
+  
+    {
+      "textShort": "Always happy to come. Very nice staff, all very friendly.",
+      "text": "Always happy to come. Very nice staff, all very friendly.",
+      "author": "Klaus Witzmann",
+      "source": "Google (Translated)"
+    },
+  
+    {
+      "text": "Very competent and good dentist. Takes away the patient's fear, works quickly and well, and doesn't try to push treatments on you... I'm very glad I found him.",
+      "author": "Anonym",
+      "source": "Jameda.de (Translated)"
+    },
+    {
+      "text": "During my treatment for a private service to improve aesthetics, he could have earned 500€, but he introduced me to another treatment method that only brought him 75€. Great doctor.",
+      "author": "Anonym",
+      "source": "Jameda.de (Translated)"
+    },
+  
+    {
+      "text": "Great dentist.",
+      "author": "Nicole",
+      "source": "Google (Translated)"
+    }
+  ]
+}
