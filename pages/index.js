@@ -155,7 +155,7 @@ export default function Home() {
             </div> */}
           </div>
           <div className="text-center text-xs mt-5 text-neutral-600">
-            <p>Copyright &copy; {new Date().getFullYear()} Alexander Horner. Alle Rechte vorbehalten.</p>
+            <p>Copyright &copy; {new Date().getFullYear()} Alexander Horner. { dict.rightsReserved }</p>
           </div>
         </footer>
 
